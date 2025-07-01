@@ -27,7 +27,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
-      - uses: actions/checkout@v4
+        uses: actions/checkout@v4
       
       - name: exportGame
         id: export
