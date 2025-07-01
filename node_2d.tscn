@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://c6bkfbl1raetb"]
+
+[ext_resource type="Texture2D" uid="uid://xux8fabrhg6f" path="res://icon.svg" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Icon" type="Sprite2D" parent="."]
+position = Vector2(473, 134)
+texture = ExtResource("1_wtcfe")
+
+[node name="Icon2" type="Sprite2D" parent="."]
+position = Vector2(726, 144)
+texture = ExtResource("1_wtcfe")
+
+[node name="Icon3" type="Sprite2D" parent="."]
+position = Vector2(358, 434)
+texture = ExtResource("1_wtcfe")
+
+[node name="Icon4" type="Sprite2D" parent="."]
+position = Vector2(523, 553)
+texture = ExtResource("1_wtcfe")
+
+[node name="Icon5" type="Sprite2D" parent="."]
+position = Vector2(710, 543)
+texture = ExtResource("1_wtcfe")
+
+[node name="Icon6" type="Sprite2D" parent="."]
+position = Vector2(849, 431)
+texture = ExtResource("1_wtcfe")
