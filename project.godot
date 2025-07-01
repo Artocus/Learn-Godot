@@ -14,3 +14,7 @@ config/name="Learn-Godot"
 run/main_scene="uid://c6bkfbl1raetb"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor]
+
+export/convert_text_resources_to_binary=false
